@@ -1,4 +1,4 @@
-require ( './helpers.js' );
+require('./helpers.js');
 
 describe("index.html", () => {
   describe("after index.js is processed", () => {
